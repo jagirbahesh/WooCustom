@@ -1,0 +1,55 @@
+# Copyright (C) 2021 Jagir Bahesh
+# This file is distributed under the same license as the WooCustom plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCustom 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woocustom\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-02T14:50:58+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: woocustom\n"
+
+#. Plugin Name of the plugin
+msgid "WooCustom"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin description"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jagir Bahesh"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://jagirbaheshwp.wordpress.com/"
+msgstr ""
+
+#: inc/class.pb.php:113
+msgid "<p><strong>%s</strong> recommends the following plugin to use.</p>"
+msgstr ""
+
+#: inc/class.pb.php:114
+msgid "<p><strong><a href=\"%s\" target=\"_blank\">%s</a> </strong></p>"
+msgstr ""
+
+#: inc/front/class.pb.front.action.php:98
+msgid "Given 25% discount on next purchase for specific user"
+msgstr ""
+
+#: inc/front/class.pb.front.action.php:119
+msgid "Recevied coupon code for next purchase"
+msgstr ""
+
+#: inc/front/class.pb.front.action.php:120
+msgid "Hurrah! Now you can use <strong>"
+msgstr ""
+
+#: inc/front/class.pb.front.action.php:138
+msgid "Message:"
+msgstr ""
